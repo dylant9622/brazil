@@ -1,0 +1,9 @@
+a.ps1
+
+main.py~
+.main.py.un~
+.a.ps1.un~
+..gitignore.un~
+.gitignore~
+
+/venv/
